@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ssksta
 - 👀 I’m interested in JavaFX
-- 🌱 I’m currently learning Kotlin,Swift
+- 🌱 I’m currently learning Kotlin,SwiftUI
